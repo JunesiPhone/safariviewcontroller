@@ -1,6 +1,4 @@
 #import <UIKit/UIKit.h>
-#import <SpringBoard/SpringBoard.h>
-#import "substrate.h"
 #import "headers.h"
 
 UIViewController* firstAvailableUIViewController (UIView* view){
